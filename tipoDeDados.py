@@ -1,5 +1,0 @@
-print(11+5  )
-print( 55.5 +10 +1.1)
-print(True)
-print(False)
-print("Meu nome é Lucas")
